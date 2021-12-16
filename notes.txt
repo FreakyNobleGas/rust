@@ -1,0 +1,7 @@
+Common Rust Commands
+--------------------
+
+Compile and Execute Program
+---
+cargo run .
+
